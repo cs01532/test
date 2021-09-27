@@ -22,6 +22,7 @@ public class CalcTest {
 	
 	public int result() { 
 		System.out.println("여기2");
+		System.out.println("여기3");
 		return param1 + param2; 
 		} 
 	}
