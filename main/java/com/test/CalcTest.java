@@ -26,6 +26,7 @@ public class CalcTest {
 		System.out.println("여기4");
 		System.out.println("여기5");
 		System.out.println("here 6");
+		System.out.println("here 7");
 		
 		return param1 + param2; 
 		} 
